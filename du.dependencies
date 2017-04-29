@@ -19,5 +19,10 @@
     "repository":  "DirtyUnicorns/android_vendor_google",
     "target_path": "vendor/google",
     "branch":      "n7x"
+  },
+  {
+    "repository":  "DirtyUnicorns/android_vendor_pixelgapps",
+    "target_path": "vendor/pixelgapps",
+    "branch":      "n7x"
   }
 ]
